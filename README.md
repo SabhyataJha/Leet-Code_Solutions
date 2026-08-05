@@ -44,6 +44,7 @@
 | [0283-move-zeroes](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Binary Search
 |  |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Two Pointers
 |  |
