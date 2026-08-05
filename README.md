@@ -41,6 +41,7 @@
 | [0011-container-with-most-water](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0035-search-insert-position) |
 | [0283-move-zeroes](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
