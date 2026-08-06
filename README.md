@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -14,6 +15,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -79,4 +81,8 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0001-two-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
