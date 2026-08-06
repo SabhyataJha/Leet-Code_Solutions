@@ -73,6 +73,7 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0344-reverse-string) |
+| [1021-remove-outermost-parentheses](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -85,4 +86,12 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0231-power-of-two) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
