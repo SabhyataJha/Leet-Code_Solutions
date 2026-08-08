@@ -9,6 +9,7 @@
 | [0050-powx-n](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1922-count-good-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 | [0050-powx-n](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1922-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
