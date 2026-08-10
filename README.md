@@ -49,6 +49,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -71,6 +72,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0344-reverse-string) |
 ## String
@@ -98,4 +100,16 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1021-remove-outermost-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
