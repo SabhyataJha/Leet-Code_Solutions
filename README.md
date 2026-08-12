@@ -52,6 +52,7 @@
 | [0075-sort-colors](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0704-binary-search) |
+| [0912-sort-an-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1732-find-the-highest-altitude) |
@@ -106,6 +107,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0075-sort-colors) |
+| [0912-sort-an-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Quicksort
@@ -119,5 +121,26 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
