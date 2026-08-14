@@ -57,6 +57,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1732-find-the-highest-altitude) |
+| [1929-concatenation-of-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1929-concatenation-of-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2574-left-and-right-sum-differences](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Binary Search
@@ -146,4 +147,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0912-sort-an-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
