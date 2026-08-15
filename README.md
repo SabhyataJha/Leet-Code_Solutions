@@ -79,6 +79,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0344-reverse-string) |
 ## String
@@ -111,6 +112,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -130,10 +132,12 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -151,4 +155,8 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1929-concatenation-of-array) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
