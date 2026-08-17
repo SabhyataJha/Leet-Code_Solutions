@@ -51,6 +51,7 @@
 | [0035-search-insert-position](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0704-binary-search) |
@@ -100,6 +101,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0231-power-of-two) |
 ## Stack
 |  |
