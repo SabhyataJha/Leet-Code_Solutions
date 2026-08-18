@@ -13,6 +13,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0042-trapping-rain-water) |
 | [0509-fibonacci-number](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -49,6 +50,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0136-single-number) |
@@ -79,6 +81,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0148-sort-list) |
@@ -106,6 +109,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0042-trapping-rain-water) |
 | [1021-remove-outermost-parentheses](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
@@ -164,4 +168,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0148-sort-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
