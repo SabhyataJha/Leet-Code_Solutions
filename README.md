@@ -58,6 +58,7 @@
 | [0283-move-zeroes](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -88,6 +89,7 @@
 | [0148-sort-list](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -125,6 +127,7 @@
 | [0148-sort-list](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0217-contains-duplicate) |
 | [0912-sort-an-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
