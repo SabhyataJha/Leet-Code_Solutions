@@ -54,6 +54,7 @@
 | [0075-sort-colors](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0136-single-number) |
+| [0209-minimum-size-subarray-sum](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0704-binary-search) |
@@ -71,10 +72,12 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0035-search-insert-position) |
+| [0209-minimum-size-subarray-sum](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -181,4 +184,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
