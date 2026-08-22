@@ -57,6 +57,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -191,4 +192,5 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
