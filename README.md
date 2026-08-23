@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0050-powx-n) |
+| [0223-rectangle-area](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -195,4 +196,8 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0643-maximum-average-subarray-i) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
