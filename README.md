@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -54,6 +55,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -166,6 +168,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0912-sort-an-array) |
 ## Merge Sort
