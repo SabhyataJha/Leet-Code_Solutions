@@ -9,6 +9,7 @@
 | [0050-powx-n](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0050-powx-n) |
 | [0223-rectangle-area](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1922-count-good-numbers](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1922-count-good-numbers) |
@@ -65,6 +66,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0704-binary-search) |
@@ -84,6 +86,7 @@
 | [0035-search-insert-position](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
@@ -125,12 +128,14 @@
 | [0217-contains-duplicate](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0268-missing-number) |
 | [1122-relative-sort-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1122-relative-sort-array) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Stack
 |  |
@@ -150,6 +155,7 @@
 | [0169-majority-element](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1122-relative-sort-array) |
