@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1922-count-good-numbers) |
@@ -210,6 +211,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0206-reverse-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
