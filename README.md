@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0066-plus-one) |
 | [0223-rectangle-area](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0268-missing-number) |
@@ -58,6 +59,7 @@
 | [0035-search-insert-position](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
