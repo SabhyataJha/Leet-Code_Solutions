@@ -28,6 +28,7 @@
 | [0203-remove-linked-list-elements](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1922-count-good-numbers) |
 ## Memoization
@@ -111,6 +112,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -150,6 +152,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
@@ -224,6 +227,7 @@
 | [0148-sort-list](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Monotonic Stack
 |  |
