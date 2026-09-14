@@ -11,6 +11,7 @@
 | [0223-rectangle-area](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1922-count-good-numbers](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1922-count-good-numbers) |
@@ -128,6 +129,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0412-fizz-buzz) |
 | [1021-remove-outermost-parentheses](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
 |  |
@@ -224,6 +226,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1929-concatenation-of-array) |
 ## Linked List
 |  |
