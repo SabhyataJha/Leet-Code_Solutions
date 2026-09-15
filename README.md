@@ -15,6 +15,7 @@
 | [0509-fibonacci-number](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1922-count-good-numbers](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1922-count-good-numbers) |
+| [2413-smallest-even-multiple](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/2413-smallest-even-multiple) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -269,4 +270,8 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0142-linked-list-cycle-ii) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
