@@ -17,6 +17,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1922-count-good-numbers](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1922-count-good-numbers) |
 | [2413-smallest-even-multiple](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/2413-smallest-even-multiple) |
+| [2769-find-the-maximum-achievable-number](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 ## Dynamic Programming
 |  |
 | ------- |
