@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0100-same-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0100-same-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Array
 |  |
 | ------- |
