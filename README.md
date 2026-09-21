@@ -95,6 +95,7 @@
 | [1929-concatenation-of-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1929-concatenation-of-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2574-left-and-right-sum-differences](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/2574-left-and-right-sum-differences) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Binary Search
 |  |
 | ------- |
