@@ -97,6 +97,7 @@
 | [2164-sort-even-and-odd-indices-independently](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2574-left-and-right-sum-differences](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2942-find-words-containing-character](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Binary Search
 |  |
@@ -142,6 +143,7 @@
 | [0344-reverse-string](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0412-fizz-buzz) |
 | [1021-remove-outermost-parentheses](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [2942-find-words-containing-character](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/3110-score-of-a-string) |
 ## Greedy
 |  |
