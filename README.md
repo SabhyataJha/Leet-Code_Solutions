@@ -15,6 +15,7 @@
 | [0509-fibonacci-number](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1512-number-of-good-pairs](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1512-number-of-good-pairs) |
 | [1922-count-good-numbers](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1922-count-good-numbers) |
 | [2235-add-two-integers](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/2413-smallest-even-multiple) |
@@ -91,6 +92,7 @@
 | [1122-relative-sort-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1920-build-array-from-permutation) |
@@ -164,6 +166,7 @@
 | [0242-valid-anagram](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0268-missing-number) |
 | [1122-relative-sort-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1122-relative-sort-array) |
+| [1512-number-of-good-pairs](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1512-number-of-good-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -238,6 +241,7 @@
 | [0169-majority-element](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1122-relative-sort-array) |
+| [1512-number-of-good-pairs](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1512-number-of-good-pairs) |
 ## Simulation
 |  |
 | ------- |
