@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0050-powx-n) |
@@ -34,6 +35,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0143-reorder-list) |
@@ -257,6 +259,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
