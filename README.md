@@ -105,6 +105,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2574-left-and-right-sum-differences](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/2574-left-and-right-sum-differences) |
+| [2680-maximum-or](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/2680-maximum-or) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -124,6 +125,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/2574-left-and-right-sum-differences) |
+| [2680-maximum-or](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/2680-maximum-or) |
 ## Two Pointers
 |  |
 | ------- |
@@ -159,6 +161,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0011-container-with-most-water) |
+| [2680-maximum-or](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/2680-maximum-or) |
 ## Hash Table
 |  |
 | ------- |
@@ -181,6 +184,7 @@
 | [0231-power-of-two](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2680-maximum-or](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/2680-maximum-or) |
 ## Stack
 |  |
 | ------- |
