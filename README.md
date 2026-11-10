@@ -143,6 +143,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -206,6 +207,7 @@
 | [0217-contains-duplicate](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0912-sort-an-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1122-relative-sort-array) |
@@ -224,6 +226,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0912-sort-an-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
@@ -312,4 +315,12 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/1672-richest-customer-wealth) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/SabhyataJha/Leet-Code_Solutions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
